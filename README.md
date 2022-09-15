@@ -1,5 +1,6 @@
 # Fake-news-classification-using-LSTM
-Classification of news as fake or real using Long short term memory (LSTM). LSTM is a type of recurrent neural network that succeeded to overcome the limitations of RNN such as gradient vanishing and exploding. ![MC-LSTM](https://user-images.githubusercontent.com/76652458/190477302-c4d45eca-a3da-45ae-8ffc-d117de80cd34.jpg)
+Classification of news as fake or real using Long short term memory (LSTM). LSTM is a type of recurrent neural network that succeeded to overcome the limitations of RNN such as gradient vanishing and exploding. ![1_7cMfenu76BZCzdKWCfBABA](https://user-images.githubusercontent.com/76652458/190478118-c0f0158b-a137-477f-83ee-659b5dc86bc3.png)
+
 
 
 Here the texts need to be preprocessed before applying LSTM. The steps invloved in text preprocessing are: 
