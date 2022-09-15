@@ -11,3 +11,4 @@ Here the texts need to be preprocessed before applying LSTM. The steps invloved 
 The model was trained using Jupyter Notebook. The dataset used here can be found on kaggle. 
 # References 
 1. https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/
+2. https://towardsdatascience.com/lstm-recurrent-neural-networks-how-to-teach-a-network-to-remember-the-past-55e54c2ff22e
